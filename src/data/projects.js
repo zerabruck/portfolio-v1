@@ -13,7 +13,7 @@ export const data = {
             ],
             github: "https://github.com/SciSaif/JobbedIn",
             website: "https://jobbedin.herokuapp.com/",
-            img: require("@assets/jobbedInHome.png"),
+            img: require("../assets/jobbedInHome.png"),
         },
 
         {
@@ -30,7 +30,7 @@ export const data = {
             ],
             github: "https://github.com/SciSaif/sciMeet-client",
             website: "https://scimeet.vercel.app/",
-            img: require("@assets/scimeet.png"),
+            img: require("../assets/scimeet.png"),
         },
         {
             title: "AIQatar.qa",
@@ -45,7 +45,7 @@ export const data = {
             ],
             github: "https://github.com/SciSaif",
             website: "https://aiqatar.qa/",
-            img: require("@assets/aiqatar.png"),
+            img: require("../assets/aiqatar.png"),
         },
     ],
 };
